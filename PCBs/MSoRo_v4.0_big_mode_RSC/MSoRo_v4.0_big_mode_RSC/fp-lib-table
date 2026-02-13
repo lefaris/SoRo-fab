@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MSoRo_v4.0_big_mode_RSC")(type "KiCad")(uri "$(KIPRJMOD)/MSoRo_v4.0_big_mode_RSC.pretty")(options "")(descr ""))
+)

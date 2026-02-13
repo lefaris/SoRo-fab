@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "uTerreSoRo_v4.1_bigger_pads_RSC")(type "KiCad")(uri "$(KIPRJMOD)/uTerreSoRo_v4.1_bigger_pads_RSC.pretty")(options "")(descr ""))
+)
